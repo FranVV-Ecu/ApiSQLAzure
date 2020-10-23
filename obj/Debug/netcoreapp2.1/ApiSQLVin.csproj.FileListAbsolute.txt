@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Platzi\mysql\ApiSQLVin\bin\Debug\netcoreapp2.1\ApiSQLVin.deps.json
+C:\Users\Asus\Desktop\Platzi\mysql\ApiSQLVin\bin\Debug\netcoreapp2.1\ApiSQLVin.runtimeconfig.json
+C:\Users\Asus\Desktop\Platzi\mysql\ApiSQLVin\bin\Debug\netcoreapp2.1\ApiSQLVin.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Platzi\mysql\ApiSQLVin\bin\Debug\netcoreapp2.1\ApiSQLVin.dll
+C:\Users\Asus\Desktop\Platzi\mysql\ApiSQLVin\bin\Debug\netcoreapp2.1\ApiSQLVin.pdb
+C:\Users\Asus\Desktop\Platzi\mysql\ApiSQLVin\obj\Debug\netcoreapp2.1\ApiSQLVin.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Platzi\mysql\ApiSQLVin\obj\Debug\netcoreapp2.1\ApiSQLVin.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Platzi\mysql\ApiSQLVin\obj\Debug\netcoreapp2.1\ApiSQLVin.RazorAssemblyInfo.cache
+C:\Users\Asus\Desktop\Platzi\mysql\ApiSQLVin\obj\Debug\netcoreapp2.1\ApiSQLVin.RazorAssemblyInfo.cs
+C:\Users\Asus\Desktop\Platzi\mysql\ApiSQLVin\obj\Debug\netcoreapp2.1\ApiSQLVin.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Platzi\mysql\ApiSQLVin\obj\Debug\netcoreapp2.1\ApiSQLVin.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Platzi\mysql\ApiSQLVin\obj\Debug\netcoreapp2.1\ApiSQLVin.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\Desktop\Platzi\mysql\ApiSQLVin\obj\Debug\netcoreapp2.1\ApiSQLVin.dll
+C:\Users\Asus\Desktop\Platzi\mysql\ApiSQLVin\obj\Debug\netcoreapp2.1\ApiSQLVin.pdb
